@@ -1,0 +1,21 @@
+Title: Supports de présentation
+
+----
+
+Text: 
+
+Le crowdfunding  - ou financement participatif - est encore bien méconnu du grand public, car très récent à Madagascar. Le crowdfunding c'est une multitude de personnes - la "**foule**" - qui s'intéresse à un projet et qui parce que ce projet la touche souhaite qu'il se réalise. Ainsi cette "foule" pourra contribuer au projet en le partageant ou en le finançant sur une plateforme si elle connait le crowdfunding et a confiance dans le système... Il faut donc qu'elle soit **informée** !
+
+###Dépliant
+Ce dépliant permet de fournir une information synthétique sur le crowdfunding à Madagascar par mail ou imprimé. N'hésitez pas à le diffuser, et/ou l'améliorer.
+(file: depliant.pdf text: dépliant informatif)
+(image: depliant.png width: 150 height: 350) 
+
+###Présentation Power Point
+Cette présentation Power Point permet de réaliser des séances d'information sur le concept de "crowdfunding", ce qui existe à Madagascar et les défis pour que ce moyen de financement se développe. N'hésitez pas à vous en servir pour informer !
+(file: pr-sentation-du-crowdfunding-a-madagascar.pptx text: Présentation du crowdfunding à Madagascar)
+(image: presentation-cf.png width: 250 height: 150)
+
+----
+
+Langhide: 0

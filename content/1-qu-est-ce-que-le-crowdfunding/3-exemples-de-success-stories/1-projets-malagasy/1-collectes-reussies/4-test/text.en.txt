@@ -1,0 +1,16 @@
+Title: Text
+
+----
+
+Text: 
+
+Déjà plusieurs autres projets malagasys ont été financés grâce à des campagnes de crowdfunding menées à bien : des projets artistiques, éducatifs, de santé, d’accès à l’énergie et ou de réinsertion des populations vulnérables (accès à l’eau grâce à la création d’un forage d’eau potable dans un village de réinsertion de populations vulnérables[^1], construction d’un prototype d’éolienne low coast à destination de Madagascar[^2]), d’appui à l’agriculture (du ricin à Androy[^3], de litchis à Tamatave[^4]).
+
+[^1]: https://www.kisskissbankbank.com/apportons-de-l-eau-au-moulin-de-l-asa?ref=search
+[^2]: https://www.kisskissbankbank.com/fr/projects/fabriquons-ensemble-une-eolienne-low-cost
+[^3]: https://bluebees.fr/fr/project/202-phileol
+[^4]: https://bluebees.fr/fr/project/149-commerce-equitable
+
+----
+
+Showtitle: false

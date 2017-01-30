@@ -1,0 +1,71 @@
+Title: Afrique
+
+----
+
+Col1: 
+
+##Don
+
+- Thundafund (Afrique du Sud)
+- Orange Collecte (Côte d’Ivoire)
+- M-Changa (Kenya)
+- Jumstarter (Afrique du Sud)
+- Zoomal (pays arabes)
+- Backabuddy (Afrique du sud)
+- Babandu (Afrique)
+- 234give.com (Nigeria)
+- Wuluj (Maroc)
+- Smalaandco (Maroc)
+- Fundfund (Afrique du Sud)
+- Atadamone (Afrique du sud)
+- Cofundy (Maghreb)
+
+----
+
+Col2: 
+
+## Pret
+
+- Iroko (Afrique de l’ouest)
+- Rainfin (Afrique du sud)
+- Goomfund (Mauritanie)
+
+----
+
+Col3: 
+
+## Equity
+
+- Afrikwity (Maghreb et Afrique de l’ouest)
+- abrec-financeutile (Afrique subsaharienne)
+- Afineety, Shekra (Egypte)
+- Slicebiz (Ghana)
+- Lelapa Fund (Afrique de l’est, Kenya)
+- Reality Africa (Afrique du sud)
+- Homestring (Afrique de l’est)
+- Malaik (Nigeria)
+- Fadev (Afrique francophone)
+
+----
+
+Hidecol1: 0
+
+----
+
+Hidecol2: 0
+
+----
+
+Hidecol3: 0
+
+----
+
+Col1width: 1-3
+
+----
+
+Col2width: 1-3
+
+----
+
+Col3width: 1-3

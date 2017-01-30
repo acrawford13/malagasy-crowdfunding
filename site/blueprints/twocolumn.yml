@@ -1,0 +1,56 @@
+title: Two Column Layout
+
+fields:
+  title:
+    label: Title
+    type:  text
+    
+
+  hidecol1:
+    label: Hide column 1 on mobile?
+    type:  checkbox
+    width: 1/2
+    text: Hide
+
+  hidecol2:
+    label: Hide column 2 on mobile?
+    type:  checkbox
+    width: 1/2
+    text: Hide
+    
+  col1width:
+    label: Column 1 Width
+    type:  select
+    default: 1-2
+    options:
+      1: 100%
+      3-4: 75%
+      1-2: 50%
+      1-4: 25%
+    width: 1/2
+    
+  col2width:
+    label: Column 2 Width
+    type:  select
+    default: 1-2
+    options:
+      1: 100%
+      3-4: 75%
+      1-2: 50%
+      1-4: 25%
+    width: 1/2
+
+  col1:
+    label: Column 1
+    type:  textarea
+    width: 1/2
+    
+  col2:
+    label: Column 2
+    type:  textarea
+    width: 1/2
+    
+  langhide:
+    text: This page is not yet translated for this language
+    label: Hide for this language
+    type:  checkbox

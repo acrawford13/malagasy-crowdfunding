@@ -1,0 +1,13 @@
+Title: Malagasy Crowdfunding
+
+----
+
+Author: UNDP Madagascar
+
+----
+
+Description: This is a website in English, French and Malagasy, offering resources and advice to people interested in crowdfunding.
+
+----
+
+Copyright: © 2016–(date: Year)

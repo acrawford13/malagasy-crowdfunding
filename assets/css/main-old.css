@@ -1,0 +1,395 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,700");
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+  font-weight: 100;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+img {
+    max-width:100%;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+.page-title {
+  background-color: #ff9800;
+  color: white;
+  font-weight: normal;
+  padding: 0.5rem;
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+div.float {
+  float: left;
+}
+div.float:after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  clear: both;
+}
+
+#header {
+  background-color: #ff9800;
+  color: white;
+}
+#header h1 {
+  color: white;
+  float: left;
+  margin: 0.5em 0;
+  margin: 1rem 0;
+  width: 10%;
+}
+#header h1 a {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Montserrat";
+  color: white;
+}
+#header #languages {
+  list-style-type: none;
+  float: right;
+  text-align: right;
+}
+#header #languages li a {
+  padding-right: 7px;
+  color: white;
+  text-decoration: none;
+}
+#header #languages li a.selected {
+  padding-right: 4px;
+  border-right: 3px solid white;
+  font-weight: bold;
+}
+
+#container {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.limit {
+  max-width: 58em;
+  max-width: 58rem;
+  margin: 0 auto;
+}
+
+.menu-limit {
+  max-width: 60em;
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+#container .full-width {
+  width: 100%;
+}
+
+#footer {
+  border-top: 1px solid #ccc;
+  margin-top: 1em;
+  margin-top: 1rem;
+  padding-bottom: 2em;
+  padding-bottom: 2rem;
+  overflow: auto;
+}
+#footer ul {
+  padding: 0;
+}
+#footer ul li {
+  float: left;
+  list-style-type: none;
+  font-size: 0.9em;
+  font-size: 0.9rem;
+  color: #aaa;
+}
+#footer ul li a {
+  color: #aaa;
+  text-decoration: none;
+}
+
+h1, h2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  letter-spacing: -1px;
+  color: #444;
+}
+
+h1 {
+  font-size: 2em;
+  font-size: 2rem;
+  line-height: 0.875em;
+  line-height: 1.75rem;
+}
+
+h3 {
+  color: #ff9800;
+  font-weight: bold;
+}
+
+.event-list {
+  padding: 0;
+  list-style-type: none;
+}
+.event-list li {
+  border-top: 1px solid #ccc;
+  padding: 0.5em 0.25em;
+  padding: 0.5rem 0.25rem;
+}
+.event-list li .time {
+  display: block;
+  color: #ff9800;
+  font-weight: bold;
+  text-align: left;
+  font-size: 0.9em;
+  font-size: 0.9rem;
+}
+.event-list li:last-child {
+  border-bottom: 1px solid #ccc;
+}
+
+#menu {
+  background-color: #efefe5;
+}
+
+#menu .menu-limit > ul {
+  padding: 0;
+  color: #222;
+  list-style-type: none;
+  border-radius: 2px;
+  margin: 0;
+}
+#menu .menu-limit > ul > li {
+  text-align: center;
+  transition: all 0.2s;
+  letter-spacing: -1px;
+  font-size: 1em;
+  font-size: 1rem;
+  position: relative;
+  display: inline-block;
+  font-family: "Montserrat";
+  padding: 0.5em 1em;
+  padding: 0.5rem 1rem;
+  cursor: default;
+   /* 
+&:last-child ul.sub {
+    right: 0;
+    left: initial;
+}
+*/
+}
+#menu .menu-limit > ul > li:hover {
+  background-color: #fff;
+  color: #f57c00;
+}
+#menu .menu-limit > ul > li span {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 1.2em;
+  font-size: 1.2rem;
+}
+#menu .menu-limit > ul > li ul.sub {
+  display: none;
+  text-align: left;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  padding: 0;
+  list-style-type: none;
+  background-color: #fff;
+  white-space: nowrap;
+  color: #222;
+  min-width: 100%;
+  z-index: 2;
+}
+#menu .menu-limit > ul > li ul.sub li {
+  border-top: 1px solid #eee;
+}
+#menu .menu-limit > ul > li ul.sub li:first-child {
+  border-top: none;
+}
+#menu .menu-limit > ul > li ul.sub li a {
+  color: inherit;
+  text-decoration: none;
+  font-family: "Montserrat";
+  padding: 0.5em 1em;
+  padding: 0.5rem 1rem;
+  display: block;
+}
+#menu .menu-limit > ul > li ul.sub li a:hover {
+  background-color: #ff9800;
+  color: white;
+}
+#menu .menu-limit > ul > li:hover ul.sub {
+  display: block;
+}
+
+.show-on-mobile-only {
+  display: none !important;
+}
+
+html, body {
+  height: 100%;
+}
+
+#menu-icon {
+  margin-top: 1.5rem;
+  margin-top: 1.5em;
+  float: right;
+}
+#menu-icon img {
+  width: 2rem;
+  width: 2em;
+  height: auto;
+}
+
+#offcanvas {
+  width: 300px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow-x: hidden;
+  background-color: white;
+  opacity: 0;
+  transition: opacity 0s 0.4s;
+}
+#offcanvas #oc-header, #offcanvas #oc-menu {
+  overflow: hidden;
+  width: 100%;
+}
+#offcanvas ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#offcanvas > ul {
+  overflow: hidden;
+  width: 100%;
+}
+#offcanvas > ul > li span {
+  display: block;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  background-color: #ff9800;
+  color: white;
+}
+#offcanvas > ul > li > ul {
+  background-color: white;
+}
+#offcanvas > ul > li > ul > li a {
+  display: block;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  color: #222;
+}
+
+#oc-header {
+  background-color: #ff9800;
+}
+
+#oc-header label span {
+  display: block;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  background-color: #ff9800;
+  color: white;
+}
+
+ul#oc-languages {
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: #f57c00 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+ul#oc-languages li:first-child a {
+  padding-left: 1rem;
+}
+
+ul#oc-languages li {
+  display: inline-block;
+}
+ul#oc-languages li a {
+  display: inline-block;
+  padding: 0.5rem;
+  text-align: center;
+  font-family: 'Montserrat';
+  color: white;
+  text-decoration: none;
+}
+
+ul#oc-languages li a.selected {
+  background-color: white;
+  color: #f57c00;
+  font-weight: bold;
+}
+
+ul li.active > a {
+  font-weight: bold;
+}
+
+#wrapper {
+  min-height: 100%;
+  min-width: 100%;
+  background-color: white;
+  position: relative;
+  top: 0;
+  bottom: 100%;
+  right: 0;
+  z-index: 1;
+  transition: right 0.4s, box-shadow 0s 0.4s;
+}
+
+.nav-trigger {
+  /* critical styles - hide the checkbox input */
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+}
+
+.nav-trigger:checked ~ #wrapper {
+  right: 300px;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  transition: right 0.4s;
+}
+
+.nav-trigger:checked ~ #offcanvas {
+  overflow-y: auto;
+  opacity: 1;
+  transition: opacity 0s;
+}
+
+@media screen and (max-width: 960px) {
+  .limit {
+    padding: 0 1rem;
+  }
+}
+@media screen and (max-width: 600px) {
+  #menu {
+    display: none;
+  }
+
+  .hide-on-mobile {
+    display: none !important;
+  }
+
+  .show-on-mobile-only {
+    display: inline !important;
+  }
+}

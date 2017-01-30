@@ -1,0 +1,12 @@
+Title: About
+
+----
+
+URL-Key: about
+
+----
+
+Text: 
+
+Ce site internet est dédié au crowdfunding à Madagascar, et a pour objectif  de  réunir les informations sur le crowdfunding et les opportunités offertes à Madagascar par ce mode de financement.
+Il n’a pas vocation de faire la promotion de quelques plateformes que ce soit mais bel et bien de rassembler l’information autour du Crowdfunding et d’être ainsi un outil pour fédérer une communauté sensible à ce nouveau mode de financement

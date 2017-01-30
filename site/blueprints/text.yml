@@ -1,0 +1,20 @@
+title: Text
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
+    
+  showtitle:
+    label: Show title?
+    type: toggle
+    text: yes/no
+    
+  langhide:
+    text: This page is not yet translated for this language
+    label: Hide for this language
+    type:  checkbox

@@ -1,0 +1,41 @@
+Title: Home
+
+----
+
+Col1: 
+
+----
+
+Col2: (twitter-timeline: undpmadagascar)
+
+----
+
+Hidecol1: 0
+
+----
+
+Hidecol2: 1
+
+----
+
+Col1width: 2-3
+
+----
+
+Col2width: 1-3
+
+----
+
+Col3: <a class="twitter-timeline" data-height="800" href="https://twitter.com/Undpmadagascar">Tweets by Undpmadagascar</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
+
+Hidecol3: 1
+
+----
+
+Col3width: 1-3
+
+----
+
+Hidecosl2: 1

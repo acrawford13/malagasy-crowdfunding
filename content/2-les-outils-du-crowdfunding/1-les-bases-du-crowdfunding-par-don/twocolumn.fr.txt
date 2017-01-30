@@ -1,0 +1,84 @@
+Title: Réussir en crowdfunding par don
+
+----
+
+Langhide: 0
+
+----
+
+Hidecol1: 0
+
+----
+
+Hidecol2: 0
+
+----
+
+Col1width: 1-2
+
+----
+
+Col2width: 1-2
+
+----
+
+Col1: 
+
+##Comment réaliser une campagne ?
+
+###Guide du crowdfunding
+
+Ce guide s’adresse aux porteurs de projets, entrepreneurs ou curieux qui souhaitent s’informer sur le financement participatif. Vous pourrez identifier quel mode de financement correspond le mieux à votre situation, et obtenir des conseils vous permettant de réussir votre levée de fonds.
+(file: 1-initiation-au-cf.docx text: Partie 1 - Initiation au crowdfunding - Explications)
+(file: 1-initiation-au-cf.pptx text: Partie 1 - Initiation au crowdfunding - Visuel)
+
+###Module de formation
+
+Ce module de formation est destiné aux structures d’accompagnement des porteurs de projet. Il est composé de deux parties : la première est vouée à expliquer le concept de crowdfunding à un public novice (le principe, les intérêts de ce mode de financement et son fonctionnement), la seconde explique comment financer un projet grâce au crowdfunding. 
+(file: 2-reussir-sa-campagne-de-cf.docx text: Partie 2 - Réussir sa campagne - Explications)
+(file: 2-reussir-sa-campagne-de-cf.pptx text: Partie 2 - Réussir sa campagne - Visuel)
+
+##Comment réussir sa vidéo ?
+La vidéo de présentation d’un projet pour une campagne de crowdfunding est QUASIMENT OBLIGATOIRE : c’est le premier ou peut-être le seul élément qu’un potentiel contributeur va regarder. Deux options :
+
+###La faire vous-même de A à Z
+Grâce notamment aux conseils dans le guide ci-dessus. Vous pouvez vous aider de ce site pour le montage : https://studio.stupeflix.com/fr/.
+
+### Contactez les Rencontres du Film Court 
+(RFC dir@rencontresdufilmcourt.mg) pour la partie technique. Ils pourront vous mettre en relation avec des personnes pouvant vous appuyer dans la réalisation de votre vidéo (matériel et réalisation technique). Avant de les contacter, écrivez vous-même le scénario et les différents éléments que vous souhaiteriez mettre en avant dans votre vidéo.
+
+###Appuyez-vous d'exemples
+- (link: https://www.youtube.com/watch?v=WkyT_N59ntY&feature=youtu.be text: Perus)
+- (link: https://www.youtube.com/watch?v=WkyT_N59ntY&feature=youtu.be text: Bulambuli Valley)
+- (link: https://www.youtube.com/watch?v=WkyT_N59ntY&feature=youtu.be text: Niouz)
+- (link: https://www.youtube.com/watch?v=mnVFKR0Jt0c text: The EntreprenHer Tour)
+- (link: https://www.youtube.com/watch?v=ZCbwBY3Nokw text: WoeLab)
+
+Quelques exemples parmi des milliers sur la toile...
+
+----
+
+Col2: 
+
+##Liens utiles
+
+Faire une campagne de crowdfunding nécessite du temps, mais certains outils vous permettront d’être plus efficace. Voici quelques sites internet utiles :
+
+###Images, graphisme :
+**(link: https://www.canva.com/ text: Canva)**
+(image: canva.png width: 60 height: 60)Pour rendre votre communication attractive, il est mieux de donner une bonne image visuelle de son projet. Au-delà du texte, il est donc bien de créer de beaux visuels : logos, graphisme, flyers de communication que vous pourrez réutiliser dans votre communication en ligne et directe.  Canva est un outil simple d’utilisation permettant de créer toute sorte de visuels !
+
+
+###Gestion des mailings
+  **(link: https://mailchimp.com/ text: Mailchimp)**
+(image: mailchimp.jpg width: 60 height: 60) Une des clés du crowdfunding est l’envoie de mail, avant pendant et après la campagne. Pour cela, Mailchimp vous permet d’importer votre mailing list facilement à partir de différents supports (Excel, Gmail, etc), et ensuite de gérer vos mailing list et envoyer des newsletters.
+Gratuit jusqu’à 12 000 emails envoyés, le site est par contre en anglais.
+
+
+###Gestion des réseaux sociaux
+**(link: https://hootsuite.com/fr/ text: Hootsuite)**
+(image: hootsuite.png width: 60 height: 65) Pour ceux souhaitant utiliser plusieurs types de réseaux sociaux, Hootsuite est un outil qui permet de gérer tous les réseaux sociaux avec un unique outil. Vous pouvez ainsi planifier la publication de vos futurs messages, synchroniser les réseaux (Facebook, Twitter, LinkedIn, Google +…), obtenir une analyse de l’accueil de vos messages sur les réseaux sociaux.
+
+**(link: https://www.thunderclap.it/fr text: Thunderclap)**
+(image: thunderclap.png width: 60 height: 70) Pour que votre campagne ne passe pas inaperçue dans la multitude de message sur les réseaux sociaux, Thunderclap vous permet de renforcer votre communication. Vous pouvez ainsi demander à votre réseau de partager un message sur les réseaux sociaux (Twitter, Facebook, Tumblr…) et de créer une base de données de ceux qui vous ont supporté pour les recontacter ensuite.
+(link: https://www.thunderclap.it/en/projects/40545-campagne-100-000-vies text: Exemple de projet de crowdfunding ayant eu recours à Thunderclap)

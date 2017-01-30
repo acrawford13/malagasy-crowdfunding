@@ -1,0 +1,38 @@
+title: Story
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    
+  subtitle:
+    label: Subtitle
+    type:  text
+    width: 1/2
+    
+  raised:
+    label: Raised
+    type:  text
+    width: 1/2
+
+  text:
+    label: Text
+    type:  textarea
+    
+  link:
+    label: Link
+    type: url
+    
+  image:
+    label: Image
+    type: image
+    
+  langhide:
+    text: This page is not yet translated for this language
+    label: Hide for this language
+    type:  checkbox

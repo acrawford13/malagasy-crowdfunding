@@ -1,0 +1,30 @@
+Title: Equity
+
+----
+
+Col1: 
+
+### GENERALISTES
+- Wiseed
+- Anaxago
+- Smartangels
+- Afrikwity (plateforme africaine)
+- Kapital Plus Plus
+
+----
+
+Col2: 
+
+### SOLIDAIRES
+- 1001pact
+- Babeldoor
+- My Micro Invest
+- Fadev (plateforme africaine)
+
+----
+
+Col1width: 1-2
+
+----
+
+Col2width: 1-2

@@ -1,0 +1,20 @@
+title: Default Page
+
+files:
+    fields:
+        text:
+          label: Title
+          type: text
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
+    
+  langhide:
+    text: This page is not yet translated for this language
+    label: Hide for this language
+    type:  checkbox

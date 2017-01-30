@@ -1,0 +1,17 @@
+title: Listing
+
+files: false
+
+options: 
+  template: true  
+  status: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    
+  langhide:
+    text: This page is not yet translated for this language
+    label: Hide for this language
+    type:  checkbox

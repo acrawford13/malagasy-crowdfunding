@@ -1,0 +1,34 @@
+title: Parent Category
+
+files: false
+
+pages:
+    template:
+        - default
+        - threecolumn
+        - twocolumn
+        - listing
+        - story
+
+options: 
+  template: true  
+  status: false  
+  url: false
+  
+fields:
+  title:
+    label: Title
+    type:  text
+
+  display:
+    label: Display
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
+    
+  langhide:
+    text: This page is not yet translated for this language
+    label: Hide for this language
+    type:  checkbox

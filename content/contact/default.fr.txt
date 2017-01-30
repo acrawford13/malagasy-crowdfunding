@@ -1,0 +1,9 @@
+Title: Contact
+
+----
+
+Text: (email: bastian@getkirby.com text: Send me an email)
+
+----
+
+Langhide: 0

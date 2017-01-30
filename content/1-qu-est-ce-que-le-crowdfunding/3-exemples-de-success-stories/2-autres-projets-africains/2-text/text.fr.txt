@@ -1,0 +1,18 @@
+Title: Text
+
+----
+
+Text: 
+
+Des milliers d’autres success stories ont été rendues possibles grâce au crowdfunding : des projets économiques, sociaux, environnementaux, technologiques, agricoles… Il y en a pour tous les goûts.
+Parmi eux, *(link: https://fr.ulule.com/panafrica-sneakers/?_ga=1.142608949.1260970291.1470676761 text: Panafrica)*, a remporté un vif succès dépassant 9 fois son objectif de préventes de ses chaussures colorées et engagées ; *(link: https://www.indiegogo.com/projects/support-a-unique-startup-initiative-in-africa-innovation?locale=fr text: Bulambuli Valley)*  en Ouganda a levé près de 20 000$ pour le développement d’une communauté d’entrepreneurs ruraux, grâce à une campagne drôle, émouvantes et médiatisée.
+
+(image: panafrica.jpg width:50%)
+
+----
+
+Showtitle: false
+
+----
+
+Langhide: 0

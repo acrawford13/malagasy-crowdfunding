@@ -1,0 +1,40 @@
+Title: Liste non-exhaustive de campagnes malagasy
+
+----
+
+Text: 
+
+Déjà plusieurs autres projets malagasy ont été financés grâce à des campagnes de crowdfunding menées à bien : des projets artistiques, éducatifs, de santé, d’accès à l’énergie et ou de réinsertion des populations vulnérables (accès à l’eau grâce à la création d’un forage d’eau potable dans un village de réinsertion de populations vulnérables, construction d’un prototype d’éolienne low cost à destination de Madagascar), d’appui à l’agriculture (du ricin à Androy, de litchis à Tamatave).
+
+
+**Projets entrepreneuriaux :**
+-	(link: https://fr.ulule.com/niouz-madagascar/ text: Niouz) : 945€ 
+-	(link: https://fr.ulule.com/be-tsara/ text: Be Tsara) (Sahambavy, Fianarantsoa) : 3 782€ 
+
+**Projets artistiques : ** 
+-	(link: https://www.helloasso.com/associations/59-rivoli/collectes/analakelytext: Analakely - la petite forêt) (Tana) : 4 525€ 
+-	(link: https://fr.ulule.com/massavana-bingyband/ text: Biba) : 4 068€ 
+-	(link: https://fr.ulule.com/seheno-album/ text: Seheno) : 4 405€ 
+-	(link: https://fr.ulule.com/zanakatany/ text: Zanakatany) :  3 370€ 
+-	(link: https://fr.ulule.com/cine-quartiers/ text: CinéQuartiers) (Diego) : 3 055€ 
+-	(link: https://www.helloasso.com/associations/autantic-films/collectes/projet-audiovisuel-interactif-pour-enfants-a-toi-de-jouer text: A toi de jouer) : 3 770€ 
+-	(link: https://fr.ulule.com/madatrek/ text: Madatrek) : 9 046€ 
+-      (link: https://fr.ulule.com/tolagnaro-izahay/ text: Toalagnaro Izahay) (Fort Dauphin) : 510€
+
+**Projets de santé :**
+-	(link: https://www.babeldoor.com/fr/spiruline-solidaire-marovoay text: Spiruline solidaire) (Marovoay) : 5 176€ 
+
+** Projets agricoles : **
+-	(link: https://bluebees.fr/fr/project/202-phileol text: Récolte de ricin) (Androy) : 40 000€ en prêt 
+-      (link: https://bluebees.fr/fr/project/149-commerce-equitable text: Récolte de litchis) (Tamatave) : 20 000€ 
+
+**Projet environnemental :**
+-     (link: https://www.kisskissbankbank.com/fr/projects/fabriquons-ensemble-une-eolienne-low-cost text: Eolienne low-cost)   : 19 720€
+
+----
+
+Showtitle: true
+
+----
+
+Langhide: 0

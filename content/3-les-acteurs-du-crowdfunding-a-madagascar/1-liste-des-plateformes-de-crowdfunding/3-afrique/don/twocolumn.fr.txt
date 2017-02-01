@@ -1,0 +1,44 @@
+Title: Don
+
+----
+
+Langhide: 0
+
+----
+
+Hidecol1: 0
+
+----
+
+Hidecol2: 0
+
+----
+
+Col1width: 1-2
+
+----
+
+Col2width: 1-2
+
+----
+
+Col1: 
+
+M-Changa (Kenya)
+Jumstarter (Afrique du Sud)
+Zoomal (pays arabes)
+Backabuddy (Afrique du sud)
+Babandu (Afrique)
+234give.com (Nigeria)
+Wuluj (Maroc)
+Smalaandco (Maroc)
+Fundfund (Afrique du Sud)
+Atadamone (Afrique du sud)
+Cofundy (Maghreb)
+
+----
+
+Col2: 
+
+Thundafund (Afrique du Sud)
+Orange Collecte (Côte d’Ivoire)

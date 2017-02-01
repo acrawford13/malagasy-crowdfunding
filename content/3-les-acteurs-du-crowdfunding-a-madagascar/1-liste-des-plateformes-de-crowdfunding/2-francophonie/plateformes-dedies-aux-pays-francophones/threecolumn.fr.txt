@@ -1,0 +1,49 @@
+Title: Plateformes dédiées aux pays francophones
+
+----
+
+Hidecol1: 0
+
+----
+
+Hidecol2: 0
+
+----
+
+Hidecol3: 0
+
+----
+
+Col1width: 1-3
+
+----
+
+Col2width: 1-3
+
+----
+
+Col3width: 1-3
+
+----
+
+Col1: 
+
+##Don
+
+[Finance Ensemble](www.finance-ensemble.org)
+
+----
+
+Col2: ##Prêt
+
+----
+
+Col3: 
+
+##Equity
+
+[Fadev]( http://www.fadev.fr/)  (Afrique francophone)
+
+----
+
+Langhide: 0

@@ -1,0 +1,48 @@
+Title: Généralistes
+
+----
+
+Hidecol1: 0
+
+----
+
+Hidecol2: 0
+
+----
+
+Hidecol3: 0
+
+----
+
+Col1width: 1-3
+
+----
+
+Col2width: 1-3
+
+----
+
+Col3width: 1-3
+
+----
+
+Col1: 
+
+##Don
+-	[Fanjava](http://www.fanjava.com/)
+-	[Habaka](http://habaka-madagascar.org/plateforme-de-crowdfunding/)
+
+----
+
+Col2: ##Prêt
+
+----
+
+Col3: 
+
+##Equity
+-	[Kapital plus plus](http://kapital-plusplus.com/)
+
+----
+
+Langhide: 0

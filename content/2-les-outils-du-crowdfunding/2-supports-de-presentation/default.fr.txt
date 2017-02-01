@@ -9,12 +9,12 @@ Le crowdfunding  - ou financement participatif - est encore bien méconnu du gra
 ###Dépliant
 Ce dépliant permet de fournir une information synthétique sur le crowdfunding à Madagascar par mail ou imprimé. N'hésitez pas à le diffuser, et/ou l'améliorer.
 (file: depliant.pdf text: dépliant informatif)
-(image: depliant.png width: 150 height: 350) 
+(image: depliant.png width: 150 height: 350 link: depliant.pdf)
 
 ###Présentation Power Point
 Cette présentation Power Point permet de réaliser des séances d'information sur le concept de "crowdfunding", ce qui existe à Madagascar et les défis pour que ce moyen de financement se développe. N'hésitez pas à vous en servir pour informer !
 (file: pr-sentation-du-crowdfunding-a-madagascar.pptx text: Présentation du crowdfunding à Madagascar)
-(image: presentation-cf.png width: 250 height: 150)
+(image: presentation-cf.png width: 250 height: 150 link: pr-sentation-du-crowdfunding-a-madagascar.pptx class: right)
 
 ----
 

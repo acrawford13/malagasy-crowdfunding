@@ -8,6 +8,7 @@ pages:
         - threecolumn
         - twocolumn
         - listing
+        - contactform
 
 fields:
   title:

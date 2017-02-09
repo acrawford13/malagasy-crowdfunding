@@ -1,0 +1,14 @@
+title: Contact Form
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
+    
+  contact:
+    label: Who is the form sent to?
+    type:  text

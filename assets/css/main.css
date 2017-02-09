@@ -4,7 +4,7 @@ img, iframe {
   max-width: 100%;
 }
 
-a {
+#body a {
   font-family: inherit;
   font-style: inherit;
   font-size: inherit;

@@ -481,6 +481,15 @@ ul li.active > a {
   }
 }
 
+@media screen and (max-width: 767px) {
+    
+  .pure-g [class *="pure-u-"] {
+    padding-left:0;
+    padding-right:0;
+    }
+}
+
+
 @media screen and (max-width: 37.5rem) {
   #menu {
     display: none;
@@ -497,4 +506,5 @@ ul li.active > a {
   .show-on-mobile-block {
     display: block !important;
   }
+  
 }

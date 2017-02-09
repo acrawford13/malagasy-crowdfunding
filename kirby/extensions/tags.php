@@ -342,3 +342,14 @@ kirbytext::$tags['gist'] = array(
     return embed::gist($tag->attr('gist'), $tag->attr('file'));
   }
 );
+
+kirbytext::$tags['color'] = array(
+    'attr' => array(
+        'color',
+        'text'
+    ),
+    'html' => function($tag) {
+        $color = $tag->attr('color');
+        return '<span class="color-span" style="color:' . $tag->attr('color') . '">' . htmlspecialchars($tag->attr('text')) . '</span>';
+    }
+);

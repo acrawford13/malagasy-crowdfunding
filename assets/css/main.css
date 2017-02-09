@@ -4,6 +4,15 @@ img, iframe {
   max-width: 100%;
 }
 
+/* Uniform Plugin styles */
+.uniform__potty {
+    position: absolute;
+    left: -9999px;
+}
+.error {
+    border: 1px solid red;
+}
+
 #body a {
   font-family: inherit;
   font-style: inherit;

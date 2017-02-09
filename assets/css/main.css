@@ -4,6 +4,24 @@ img, iframe {
   max-width: 100%;
 }
 
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.pure-g [class *="pure-u"] {
+    padding-left:0.35rem;
+    padding-right:0.35rem;
+}
+
+.pure-g [class *="pure-u"]:first-child {
+    padding-left:0;
+}
+.pure-g [class *="pure-u"]:last-child {
+    padding-right:0;
+}
+
+
 /* Uniform Plugin styles */
 .uniform__potty {
     position: absolute;
@@ -42,7 +60,7 @@ img, iframe {
 * {
   font-weight: 300;
   box-sizing: border-box;
-  font-family: 'Roboto';
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .clearfix:after {
@@ -148,7 +166,7 @@ img, iframe {
 }
 
 h1, h2 {
-  font-family: "Montserrat";
+  font-family: "Montserrat",'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: -1px;
   color: #444;

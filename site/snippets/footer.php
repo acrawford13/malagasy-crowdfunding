@@ -1,13 +1,14 @@
 
         </div>
     </div>
-                <div id="footer" class="limit">
-                    <ul>
-                        <li><a href="<?php echo url('a-propos'); ?>"><?php echo l::get('about') ?></a></li>
-                    </ul>
-                    <a href="https://www.facebook.com/malagasycrowdfunding/" target="_blank" >
-                    <img src="<?= url("assets/images/fb.png")?>" style="float:right; height:1.25rem"/></a>
-                </div>
+    <div id="footer" class="limit">
+        <div class="align-left">
+            <?php echo $data->col1()->kirbytext(); ?>
+        </div>
+        <div class="align-right">
+            <?php echo $data->col2()->kirbytext(); ?>
+        </div>
+    </div>
 </div>
 
 </body>

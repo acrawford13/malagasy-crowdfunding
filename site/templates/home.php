@@ -11,4 +11,8 @@
 
   </main>
 
-<?php snippet('footer') ?>
+  
+<?php 
+    $footer = $site->find('footer')->content();
+    snippet('footer', array('data'=>$footer));
+?>

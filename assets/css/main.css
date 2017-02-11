@@ -146,10 +146,13 @@ html, button, input, select, textarea,
   padding-bottom: 2em;
   padding-bottom: 2rem;
   overflow: auto;
+  padding-top: 1em;
+  padding-top: 1rem;
 }
 
 #footer ul {
   padding: 0;
+  margin:0;
 }
 
 #footer ul li {
@@ -158,6 +161,19 @@ html, button, input, select, textarea,
   font-size: 0.9em;
   font-size: 0.9rem;
   color: #aaa;
+  margin-right:0.5rem;
+}
+
+#footer .align-left {
+    float:left;
+}
+
+#footer .align-right {
+    float:right;
+}
+
+#footer img.icon {
+    height:1.25rem;
 }
 
 #footer ul li a {

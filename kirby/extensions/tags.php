@@ -158,6 +158,68 @@ kirbytext::$tags['image'] = array(
   }
 );
 
+// icon tag
+kirbytext::$tags['icon'] = array(
+  'attr' => array(
+    'link',
+    'alt',
+    'title'
+  ),
+  'html' => function($tag) {
+
+    $url     = $tag->attr('icon');
+    $file    = $tag->file($url);
+    $alt     = $tag->attr('alt');
+    $link    = $tag->attr('link');
+
+    // use the file url if available and otherwise the given url
+    $url = $file ? $file->url() : url($url);
+    // try to get the title from the image object and use it as alt text
+    if($file) {
+
+      if(empty($alt) and $file->alt() != '') {
+        $alt = $file->alt();
+      }
+
+      if(empty($title) and $file->title() != '') {
+        $title = $file->title();
+      }
+
+    }
+    
+    if(empty($alt)) $alt = ' ';
+    
+    $_link = function($image) use($tag, $url, $link, $file) {
+
+      if(empty($link)) return $image;
+
+      // build the href for the link
+      if($link == 'self') {
+        $href = $url;
+      } else if($file and $link == $file->filename()) {
+        $href = $file->url();
+      } else if($tag->file($link)) {
+        $href = $tag->file($link)->url();
+      } else {
+        $href = $link;
+      }
+
+      return html::a(url($href), $image, array('target'=>'_blank'));
+
+    };
+
+    // image builder
+    $_image = function() use($tag, $url, $alt) {
+      return html::img($url, array(
+        'alt'    => $alt,
+        'class'  => 'icon'
+      ));
+    };
+    
+    return $_link($_image());
+  }
+);
+
 // link tag
 kirbytext::$tags['link'] = array(
   'attr' => array(

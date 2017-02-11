@@ -1,5 +1,6 @@
 <?php snippet('header') ?>
   <main class="main" role="main">
+            <?= $page->top()->kirbytext(); ?>
     <div class="pure-g">
       <div class="pure-u-1-1 pure-u-md-<?php if($page->col1width()){echo $page->col1width();}else{echo "2-3";}?> <?php if($page->hidecol1() == '1'){echo "hide-on-mobile";} ?>">
             <?= $page->col1()->kirbytext(); ?>

@@ -10,6 +10,10 @@ fields:
     label: Title
     type:  text
     
+  top:
+    label: Top Section
+    type: textarea
+    
   col1width:
     label: Main Column Width
     type:  select

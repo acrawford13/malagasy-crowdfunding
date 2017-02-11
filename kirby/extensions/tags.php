@@ -424,6 +424,7 @@ kirbytext::$tags['gist'] = array(
   }
 );
 
+//colored text tag
 kirbytext::$tags['color'] = array(
     'attr' => array(
         'color',

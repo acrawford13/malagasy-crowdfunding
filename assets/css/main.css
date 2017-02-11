@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,700");
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
 img, iframe {
   max-width: 100%;
 }
@@ -29,6 +31,38 @@ html, button, input, select, textarea,
 }
 .error {
     border: 1px solid red;
+}
+
+.feature-text {
+    line-height:1em;
+}
+
+.feature-small {
+    font-size:2rem;
+}
+.feature-medium {
+    font-size:3rem;
+}
+.feature-large {
+    font-size:4rem;
+}
+.feature-xlarge {
+    font-size:5rem;
+}
+
+@media (max-width:768px){
+    .feature-small {
+        font-size:1rem;
+    }
+    .feature-medium {
+        font-size:2rem;
+    }
+    .feature-large {
+        font-size:3rem;
+    }
+    .feature-xlarge {
+        font-size:4rem;
+    }
 }
 
 #body a {

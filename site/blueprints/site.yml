@@ -9,6 +9,7 @@ pages:
         - twocolumn
         - listing
         - contactform
+        - footer
 
 fields:
   title:

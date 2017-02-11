@@ -1,0 +1,16 @@
+title: Footer
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  col1:
+    label: Left Section
+    type:  textarea
+    width: 1/2
+    
+  col2:
+    label: Right Section
+    type:  textarea
+    width: 1/2

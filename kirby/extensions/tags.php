@@ -62,6 +62,8 @@ kirbytext::$tags['image'] = array(
   'attr' => array(
     'width',
     'height',
+    'align',
+    'wraptext',
     'alt',
     'text',
     'title',
@@ -81,6 +83,8 @@ kirbytext::$tags['image'] = array(
     $title   = $tag->attr('title');
     $link    = $tag->attr('link');
     $caption = $tag->attr('caption');
+    $align   = $tag->attr('align');
+    $wrap    = $tag->attr('wraptext')!="no"&&$tag->attr('wraptext')!="false"?$tag->attr('wraptext'):'';
     $file    = $tag->file($url);
 
     // use the file url if available and otherwise the given url
@@ -105,6 +109,21 @@ kirbytext::$tags['image'] = array(
     // at least some accessibility for the image
     if(empty($alt)) $alt = ' ';
 
+    $_align = function($link) use ($tag, $align, $wrap){
+        if($align&&in_array(strtolower($align),array("left","right","center"))){
+            if(!$wrap){
+                return "<div style='text-align:" . $align . "'>" . $link . "</div>";
+            } else {
+                $float = $align==strtolower("center")?"left":$align;
+                return "<span style='float:" . $float . "'>" . $link . "</span>";
+            }
+        } else if($wrap) {
+            return "<span style='float:left'>" . $link . "</span>";
+        } else {
+            return $link;
+        }
+    };
+    
     // link builder
     $_link = function($image) use($tag, $url, $link, $file) {
 
@@ -120,7 +139,7 @@ kirbytext::$tags['image'] = array(
       } else {
         $href = $link;
       }
-
+        
       return html::a(url($href), $image, array(
         'rel'    => $tag->attr('rel'),
         'class'  => $tag->attr('linkclass'),
@@ -149,10 +168,10 @@ kirbytext::$tags['image'] = array(
       if(!empty($caption)) {
         $figure->append('<figcaption>' . html($caption) . '</figcaption>');
       }
-      return $figure;
+      return $_align($figure);
     } else {
       $class = trim($tag->attr('class') . ' ' . $tag->attr('imgclass'));
-      return $_link($_image($class));
+      return $_align($_link($_image($class)));
     }
 
   }

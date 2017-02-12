@@ -22,9 +22,9 @@ return function ($site, $pages, $page)
     if (r::is('POST')) {
         $form->emailAction([
             'to' => $page->contact(),
-            'from' => 'andrea.crawford13@gmail.com',
+            'from' => '"Malagasy Crowdfunding Site" <hello@andreacrawford.design>',
             'snippet' => 'emails/success',
-            'subject' => 'New message from Malagasy Crowdfunding website contact form'
+            'subject' => 'New message from contact form'
         ]);
     }
 

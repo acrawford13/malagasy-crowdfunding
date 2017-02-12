@@ -227,7 +227,11 @@ label {
   font-size: 0.9em;
   font-size: 0.9rem;
   color: #aaa;
-  margin-right:0.5rem;
+  border-right:1px solid #aaa;
+}
+
+#footer ul li:last-child{
+    border-right:none;
 }
 
 #footer .align-left {
@@ -245,6 +249,12 @@ label {
 #footer ul li a {
   color: #aaa;
   text-decoration: none;
+  padding-left:0.4rem;
+  padding-right:0.4rem;
+}
+
+#footer ul li:first-child a {
+    margin-left:-0.4rem;
 }
 
 h1, h2 {

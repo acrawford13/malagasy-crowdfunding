@@ -9,6 +9,10 @@ fields:
     label: Text
     type:  textarea
     
+  thankyou:
+    label: Thank you message
+    type:  textarea
+    
   contact:
     label: Who is the form sent to?
     type:  text

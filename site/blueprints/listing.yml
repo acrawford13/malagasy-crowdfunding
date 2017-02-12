@@ -4,7 +4,6 @@ files: false
 
 options: 
   template: true  
-  status: false
 
 fields:
   title:

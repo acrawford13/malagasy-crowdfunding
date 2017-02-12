@@ -257,6 +257,14 @@ label {
     margin-left:-0.4rem;
 }
 
+.wrap-left {
+    padding-right:1rem;
+}
+
+.wrap-right {
+    padding-left:1rem;
+}
+
 h1, h2 {
   font-family: "Montserrat",'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;

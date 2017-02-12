@@ -115,10 +115,10 @@ kirbytext::$tags['image'] = array(
                 return "<div style='text-align:" . $align . "'>" . $link . "</div>";
             } else {
                 $float = $align==strtolower("center")?"left":$align;
-                return "<span style='float:" . $float . "'>" . $link . "</span>";
+                return "<span class='wrap-$float' style='float:" . $float . "'>" . $link . "</span>";
             }
         } else if($wrap) {
-            return "<span style='float:left'>" . $link . "</span>";
+            return "<span class='wrap-left' style='float:left'>" . $link . "</span>";
         } else {
             return $link;
         }
@@ -425,7 +425,7 @@ kirbytext::$tags['gist'] = array(
 );
 
 //colored text tag
-kirbytext::$tags['color'] = array(
+kirbytext::$tags['text'] = array(
     'attr' => array(
         'color',
         'text'

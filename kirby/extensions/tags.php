@@ -17,7 +17,7 @@ kirbytext::$tags['email'] = array(
     'rel'
   ),
   'html' => function($tag) {
-    return html::email($tag->attr('email'), html($tag->attr('text')), array(
+    return html::a("mailto:" . $tag->attr('email'), html($tag->attr('text')), array(
       'class' => $tag->attr('class'),
       'title' => $tag->attr('title'),
       'rel'   => $tag->attr('rel'),

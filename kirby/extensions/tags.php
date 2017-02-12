@@ -153,10 +153,10 @@ kirbytext::$tags['image'] = array(
     $_image = function($class) use($tag, $url, $alt, $title) {
       return html::img($url, array(
         'width'  => $tag->attr('width'),
-        'height' => $tag->attr('height'),
         'class'  => $class,
         'title'  => $title,
-        'alt'    => $alt
+        'alt'    => $alt,
+        'style'  => "max-height:" . $tag->attr('height')
       ));
     };
 

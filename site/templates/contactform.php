@@ -4,23 +4,14 @@
     <header class="wrap">
       <h1 class="page-title"><?= $page->title()->html() ?></h1>
     </header>
-    <style>
-    input, textarea {
-        width:100%;
-    }
-    
-    label {
-        color:#ff9800;
-        font-weight:bold;
-        display:inline-block;
-        margin-bottom:0.5rem;
-        margin-top:0.5rem;
-    }
-    
-</style>    
     <div class="text wrap">
       <?= $page->text()->kirbytext() ?>
 <form action="<?php echo $page->url() ?>" method="POST">
+<?php if ($form->success()): ?>
+    Thank you for your message. We will get back to you soon!
+<?php else: ?>
+    <?php snippet('uniform/errors', ['form' => $form]) ?>
+
       <div class="pure-g">
       <div class="pure-u-1-1 pure-u-md-1-2">
           <label>Name</label>
@@ -37,12 +28,8 @@
     <?php echo csrf_field() ?>
     <?php echo honeypot_field() ?>
     <input type="submit" value="Submit">
+    <?php endif; ?>
 </form>
-<?php if ($form->success()): ?>
-    Thank you for your message. We will get back to you soon!
-<?php else: ?>
-    <?php snippet('uniform/errors', ['form' => $form]) ?>
-<?php endif; ?>
 
     </div>
 

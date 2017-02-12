@@ -65,6 +65,38 @@ html, button, input, select, textarea,
     }
 }
 
+input, textarea {
+    padding:0.5rem;
+    width:100%;
+}
+
+input[type="submit"] {
+    background-color:#ff9800;
+    color:white;
+    border:0;
+    border-radius:4px;
+    transition:background-color 0.4s;
+    margin-top:0.5rem;
+}
+
+input[type="submit"]:hover {
+    background-color:#ff7800;
+}
+
+label {
+    color:#ff9800;
+    font-weight:bold;
+    display:inline-block;
+    margin-bottom:0.5rem;
+    margin-top:0.5rem;
+}
+
+.uniform-errors {
+    background-color: #ffdddd;
+    padding: 0.5rem;
+    color: #dd0000;
+}
+
 #body a {
   font-family: inherit;
   font-style: inherit;

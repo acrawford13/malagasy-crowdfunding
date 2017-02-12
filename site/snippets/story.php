@@ -18,7 +18,9 @@
       <div class="pure-u-1">
       <?php endif; ?>
           <?= $data->text()->kirbytext() ?>
-          <?php echo html::a($data->link(),'Sa campgne'); ?>
+          <?php if($data->link()!=""){
+                   echo html::a($data->link(),'Sa campagne');
+          }?>
       </div>
    </div>
 </div>

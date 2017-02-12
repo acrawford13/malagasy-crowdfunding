@@ -22,7 +22,7 @@
       <?php else: ?>
       <div class="pure-u-1">
       <?php endif; ?>
-          <?= $page->text()->markdown() ?>
+          <?= $page->text()->kirbytext() ?>
       </div>
    </div>
 </div>

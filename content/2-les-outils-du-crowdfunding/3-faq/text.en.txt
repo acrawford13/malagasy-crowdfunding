@@ -1,0 +1,35 @@
+Title: FAQ
+
+----
+
+Text: 
+
+###Quel type de projet peut-être financé ? 
+Tout type de projet peut être financé à partir du moment où ils ne sont pas contraire aux valeurs morales. Par contre certaines plateformes sont généralistes d’autres spécialisées dans des domaines précis (social, environnement, ONG…). 
+
+###Qui peut présenter un projet ? 
+Toute personne peut recourir au crowdfunding, c’est la plateforme qui fait la sélection en fonction de la viabilité des projets et leur cohérence avec les critères de la plateforme.
+
+###Quel montant peut-on demander sur une plateforme ? 
+Il n'y a pas de réelle limite, notamment en ariary où le crowdfunding en est à ses débuts. Certaines plateformes fixent des seuils de montant. De manière générale dans le monde, les besoins peuvent aller de quelques centaines d’euros à 100 000 euros (très difficile) pour les plus grosses campagnes, en don. En prêt et en equity les montants peuvent monter encore plus haut, mais ce financement est réservé aux entreprises. 
+
+###Si l’on souhaite simplement donner, doit-on obligatoirement avoir une contrepartie ? 
+Certaines plateformes ne font que du don (notamment les ONG), mais celles avec des contreparties ont généralement beaucoup de succès. Si vous ne souhaitez pas de contrepartie, il vous suffit de le préciser au porteur de projet.
+
+###Qui gère l’évolution du financement ? 
+Certaines plateformes imposent une durée de collecte, en don elle est souvent d’un mois. La plateforme récolte les donations et fait monter le pourcentage de financement dès qu’un don est reçu, ainsi on peut voir le succès de la campagne.
+
+###Qui contrôle le crowdfunding à Madagascar ? 
+La plateforme en premier lieu contrôle les projets qu’elle présente sur son site (viabilité, accompagnement, porteur de projet…). En deuxième lieu, le projet reste sur la plateforme pendant plusieurs semaines, durant lesquelles des individus peuvent en prendre connaissance, poser des questions et signaler à la plateforme s’il y a un problème sur ce projet. Enfin en termes de transaction, les fonds sont collectés directement par la banque en partenariat avec la plateforme ou bien par un prestataire de service de paiement : ces deux acteurs ont des contrôles spécifiques comme pour toute transaction financière (contre le blanchiment d’argent, la fraude…). Les fonds ne sont déversés au porteur de projet qu’après cette vérification.
+
+----
+
+Langhide: 0
+
+----
+
+Showtitle: true
+
+----
+
+Url-key: faq

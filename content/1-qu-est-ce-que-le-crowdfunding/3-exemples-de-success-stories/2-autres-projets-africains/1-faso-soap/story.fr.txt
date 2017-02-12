@@ -12,7 +12,7 @@ Raised: 80 593$ levés soit 236% de l’objectif
 
 Text: 
 
-La start-up burkinabée **(link: http://fr.ulule.com/100000vies/?_ga=1.142608949.1260970291.1470676761 text: Faso Soap)** a levé 70 921€ pour financer la recherche pour créer son savon anti-moustique contre le paludisme. Après avoir gagné la plus grande compétition de start-up à fort impact social ou environnemental « GSVC »,  aucun investissement ou subvention n’a été trouvé pour financer la recherche et le développement du produit. 
+La start-up burkinabée (text:test color:red) (link: http://fr.ulule.com/100000vies/?_ga=1.142608949.1260970291.1470676761 text: Faso Soap)  (link: www.google.com text: FasoSoap) a levé 70 921€ pour financer la recherche pour créer son savon anti-moustique contre le paludisme. Après avoir gagné la plus grande compétition de start-up à fort impact social ou environnemental « GSVC »,  aucun investissement ou subvention n’a été trouvé pour financer la recherche et le développement du produit. 
 
 La réussite de cette levée de fonds (de plus de deux fois son objectif) est due tant au projet en lui-même, qu’à la **large communication** faite par l’équipe de Faso soap.
 

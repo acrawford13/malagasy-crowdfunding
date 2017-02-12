@@ -1,0 +1,29 @@
+Title: Footer
+
+----
+
+Langhide: 0
+
+----
+
+Hidecol1: 0
+
+----
+
+Hidecol2: 0
+
+----
+
+Col1width: 1-2
+
+----
+
+Col2width: 1-2
+
+----
+
+Col1: asdfasdf
+
+----
+
+Col2: asdfasdf

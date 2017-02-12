@@ -5,6 +5,7 @@ Title: Conseils de porteurs de projet
 Text: 
 
 ## Spiruline Solidaire 
+(image: be-tsara.jpg wraptext:yes)
 
 ### 1.	Pourquoi avoir choisi le crowdfunding pour vous financer ?
 Dans le cadre de nos recherches de financement, il **est toujours très apprécié des financeurs que les ressources d'un projet soient diversifiées.** Notre association n'étant financée que par des subventions publiques, il nous a semblé opportun de démontrer aux bailleurs institutionnels que nous avions aussi des sources de financement privés.

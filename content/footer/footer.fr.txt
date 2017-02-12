@@ -1,0 +1,13 @@
+Title: Footer
+
+----
+
+Col1: 
+
+- (link: /a-propos text: A propos)
+- (link: /a-propos text: Contact)
+- (email:andrea.crawford13@gmail.com text:Andrea)
+
+----
+
+Col2: - (icon: fb.png link:http://www.facebook.com)

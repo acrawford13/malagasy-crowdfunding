@@ -8,6 +8,7 @@ fields:
   text:
     label: Text
     type:  textarea
+    help: This text will go above the contact form.
     
   thankyou:
     label: Thank you message
